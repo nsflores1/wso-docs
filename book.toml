@@ -1,6 +1,11 @@
 [book]
-authors = []
+authors = ["Williams Students Online"]
 language = "en"
 multilingual = false
 src = "src"
 title = "wso-docs"
+
+[output.html]
+git-repository-url = "https://github.com/nsflores1/wso-docs"
+edit-url-template = "https://github.com/nsflores1/wso-docs/edit/master/guide/{path}"
+
