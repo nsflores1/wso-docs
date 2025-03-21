@@ -1,0 +1,42 @@
+.ephelia {
+    --bg: #ffffff;
+    --fg: #1e2233;
+
+    --sidebar-bg: #553871;
+    --sidebar-fg: #ffffff;
+    --sidebar-non-existant: #8884a6;
+    --sidebar-active: #f5bf43;
+    --sidebar-spacer: #f5bf43;
+
+    --scrollbar: var(--sidebar-fg);
+
+    --icons: #553871;
+    --icons-hover: #ffffff;
+
+    --links: #a2208a;
+
+    --inline-code-color: #292e40;
+
+    --theme-popup-bg: #ffffff;
+    --theme-popup-border: #24024d;
+    --theme-hover: #694b8f;
+
+    --quote-bg: #dcd6f7;
+    --quote-border: #8884a6;
+
+    --warning-border: #f5bf43;
+
+    --table-border-color: #553871;
+    --table-header-bg: #c86914;
+    --table-alternate-bg: #dcd6f7;
+
+    --searchbar-border-color: #24024d;
+    --searchbar-bg: #ffffff;
+    --searchbar-fg: #1e2233;
+    --searchbar-shadow-color: #8884a6;
+    --searchresults-header-fg: #a2208a;
+    --searchresults-border-color: #a2208a;
+    --searchresults-li-bg: #c86914;
+    --search-mark-bg: #c86914;
+    --color-scheme: light
+}
