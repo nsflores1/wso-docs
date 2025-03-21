@@ -4,3 +4,6 @@ The documentation for William Students Online's code, server configs, and onboar
 ## Why make this?
 Because notes were all over the place, and it became hard to fix things after a previous year implemented them.
 Also, all of it was in Markdown to begin with, so converting it to `mdbook` format was trivial (a literal copy-paste).
+
+## Anything else?
+If you're doing the onboarding, the files for it are located within this repository.

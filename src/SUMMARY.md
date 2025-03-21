@@ -4,8 +4,8 @@
 
 # Onboarding
 
-- [Backend Onboarding]()
-- [Frontend Onboarding]()
+- [Backend Onboarding](onboarding-backend.md)
+- [Frontend Onboarding](onboarding-frontend.md)
 
 # Sysadmin Guide
 
