@@ -1,0 +1,6 @@
+[submodule "src/onboarding-frontend"]
+	path = src/onboarding-frontend
+	url = git@github.com:WilliamsStudentsOnline/onboarding-frontend.git
+[submodule "src/onboarding-backend"]
+	path = src/onboarding-backend
+	url = git@github.com:WilliamsStudentsOnline/onboarding-backend.git
