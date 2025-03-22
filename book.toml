@@ -9,3 +9,4 @@ title = "wso-docs"
 default-theme = "ephelia"
 preferred-dark-theme = "ayu"
 additional-css = ["./theme/ephelia.css"]
+git-repository-url = "https://github.com/nsflores1/wso-docs"

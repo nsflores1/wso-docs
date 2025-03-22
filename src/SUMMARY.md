@@ -4,20 +4,27 @@
 
 # Onboarding
 
+- [Contributing Intro](contributing.md)
 - [Backend Onboarding](onboarding-backend.md)
 - [Frontend Onboarding](onboarding-frontend.md)
+- [Proposal Template](proposal-template.md)
+- [Using Git](using-git.md)
 
-# Documentation
+# Sysadmin Docs
 
 - [Dev/Test Server]()
 - [Production Server]()
 - [Backup Server]()
 
+# Developer Docs
+
 - [Backend Dev Guide](backend_dev.md)
+  - [Creating a Service](backend_services.md)
+  - [JSON Style Guide](json-style.md)
 
-- [Frontend Dev Guide]()
+- [Frontend Dev Guide](frontend_dev.md)
 
-- [App Dev Guide]()
+- [App Dev Guide](app_dev.md)
 
 --------
 
