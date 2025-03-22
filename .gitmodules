@@ -4,3 +4,6 @@
 [submodule "src/onboarding-backend"]
 	path = src/onboarding-backend
 	url = git@github.com:WilliamsStudentsOnline/onboarding-backend.git
+[submodule "src/wso-go"]
+	path = src/wso-go
+	url = git@github.com:WilliamsStudentsOnline/wso-go.git
