@@ -12,9 +12,9 @@
 
 # Sysadmin Docs
 
-- [Dev/Test Server]()
+- [Dev/Test Server](sysadmin-test.md)
 - [Production Server](sysadmin-production.md)
-- [Backup Server]()
+- [Backup Server](sysadmin-backup.md)
 
 # Developer Docs
 
